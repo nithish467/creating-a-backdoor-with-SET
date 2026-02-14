@@ -43,6 +43,10 @@ The Credential Harvester Attack Method displays the following menu. In this menu
 ## OUTPUT
 <img width="420" height="228" alt="image" src="https://github.com/user-attachments/assets/ffdd2765-ab69-47ec-86ce-80e7a5f1656b" />
 
+The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
+
+## OUTPUT 
+
 <img width="344" height="149" alt="image" src="https://github.com/user-attachments/assets/1464285b-aaa8-422d-b80b-c52e9418f665" />
 
 
@@ -82,7 +86,7 @@ SET logs the information regarding the Google credentials:
 SET logs the information in the xml file under /root/.set directory:
 ## OUTPUT
 
-
+<img width="1332" height="479" alt="image" src="https://github.com/user-attachments/assets/d4c613cf-2702-41c0-8321-c63599628dae" />
 
 
 
